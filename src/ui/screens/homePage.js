@@ -4,7 +4,7 @@ import NavbarComponent from "../components/navbarComponent";
 const HomePage = () => {
     const { handleOnChange, submitSearch, movieView } = HomePageController();
     return (
-        <div className="App-header w-100">
+        <div className="App-header">
             <div className="w-100">
                 <div className="navbarComponent">
                     <NavbarComponent navbar={true} submit={submitSearch} />

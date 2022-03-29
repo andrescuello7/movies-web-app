@@ -3,6 +3,7 @@
   background-color: #223C53;
 }
 .App-header {
+  width: 100%;
   min-height: 100vh;
   color: white;
 }
