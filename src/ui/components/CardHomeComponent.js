@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import Controller from "../screenController/moviePageController"
 import "../../values/styles/card.css";
 
-const CardComponent = ({ title, image, array }) => {
+const CardHome = ({ title, image, array }) => {
     const { submitGetSearch } = Controller();
     function searchMovieResponse() {
         submitGetSearch(array);
@@ -18,4 +18,4 @@ const CardComponent = ({ title, image, array }) => {
         </div>
     );
 }
-export default CardComponent;
+export default CardHome;

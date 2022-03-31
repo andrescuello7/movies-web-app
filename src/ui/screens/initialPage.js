@@ -1,6 +1,6 @@
 import InitialPageController from "../screenController/initialPageController";
-import MoviePop from "../components/moviePopComponent";
-import NavbarComponent from "../components/navbarComponent";
+import MoviePop from "../components/PopCornsComponent";
+import NavbarComponent from "../components/NavbarComponent";
 
 const InitialPage = () => {
     return (

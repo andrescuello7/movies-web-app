@@ -1,6 +1,6 @@
 import MoviePageController from "../screenController/moviePageController";
-import NavbarComponent from "../components/navbarComponent";
-import CardComponent from "../components/cardMoviesComponent";
+import NavbarComponent from "../components/NavbarComponent";
+import CardComponent from "../components/CardMovieComponent";
 import ApiRest from "../../netwoork/k_api";
 import "../../values/styles/pages.css";
 

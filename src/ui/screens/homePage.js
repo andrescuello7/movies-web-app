@@ -1,5 +1,5 @@
 import HomePageController from "../screenController/homePageController";
-import NavbarComponent from "../components/navbarComponent";
+import NavbarComponent from "../components/NavbarComponent";
 
 const HomePage = () => {
     const { handleOnChange, submitSearch, movieView } = HomePageController();

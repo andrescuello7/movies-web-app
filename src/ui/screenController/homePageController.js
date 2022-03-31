@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import CardComponent from "../components/cardMovieComponent";
+import CardComponent from "../components/CardHomeComponent";
 import RemoteAccess from "../../data-access/remoteAccess";
 
 const HomePageController = () => {

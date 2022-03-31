@@ -1,4 +1,4 @@
-const MoviePop = () => {
+const PopCorns = () => {
     return (
         <svg xmlns="http://www.w3.org/2000/svg" width="332" height="401" viewBox="0 0 332 401">
             <text id="MoviePop_" data-name="MoviePop!" transform="translate(166 383)" fill="#c48900" font-size="50" font-family="Nunito-ExtraBold, Nunito" font-weight="800"><tspan x="-121.575" y="0">MoviePop!</tspan></text>
@@ -55,4 +55,4 @@ const MoviePop = () => {
         </svg>
     );
 }
-export default MoviePop;
+export default PopCorns;
